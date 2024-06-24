@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jean Mendoza</h1>
-<h3 align="center">A passionate frontend developer from Peru</h3>
+<h1 align="center">Hola 👋, Soy Jean Mendoza</h1>
+<h3 align="center">Soy estudiante de Ingenieria de Software en constante aprendizaje, apasionado por el desarrollo web, enfocado en el backend y frontend para la creacion de aplicaciones</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
