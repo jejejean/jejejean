@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Jean Mendoza</h1>
-<h3 align="center">Soy estudiante de Ingenieria de Software en constante aprendizaje, apasionado por el desarrollo web, enfocado en el backend y frontend para la creacion de aplicaciones.</h3>
+<h4 align="center">Soy estudiante de Ingenieria de Software en constante aprendizaje, apasionado por el desarrollo web, enfocado en el backend y frontend para la creacion de aplicaciones.</h3>
 
 <h2 align="left">💻Conocimientos:</h2>
 <ul>
@@ -9,7 +9,7 @@
   <li>Otros: Figma, Postman, Insomnia.</li>
 </ul>
 
-<h2 align="left">💻Languages:</h2>
+<h2 align="left">💻Skills:</h2>
 <p>
 <img alt="Static Badge" src="https://img.shields.io/badge/html5-html5?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26">
 
