@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Jean Mendoza</h1>
 <h3 align="center">Soy estudiante de Ingenieria de Software en constante aprendizaje, apasionado por el desarrollo web, enfocado en el backend y frontend para la creacion de aplicaciones.</h3>
 
-<h2 align="left">Conocimientos:</h2>
+<h2 align="left">💻Conocimientos:</h2>
 <ul>
   <li>Front-end: HTML, CSS, JavaScript, TypeScript, Angular, BootsTrap, Tailwind, PrimeNG, FlowBite</li>
   <li>Back-end: Java.</li>
